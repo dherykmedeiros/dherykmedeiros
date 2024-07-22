@@ -9,7 +9,7 @@ Olá! Eu sou o Dheryk Medeiros.
 - Tenho facilidade na aprendizagem.<br>
 - Estou focado em melhorar cada vez mais minha logica</h2>
 
-<h1>Linguagens que possuo conhecimento:</h1>
+<h1>Areas que possuo conhecimento:</h1>
 
 ![pitao](https://github.com/user-attachments/assets/8a3ebefe-4f65-4f8d-82e9-f4c4c1eeff2b)
 ![js](https://github.com/user-attachments/assets/2dcd6903-3120-4f66-8149-4c2fea6787f7)
