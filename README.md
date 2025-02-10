@@ -1,21 +1,21 @@
-Olá! Eu sou o Dheryk Medeiros.
-- 🌱 Estou estudando atualmente JavaScript
-- 📫 Contate-me no email: dheryk@gmail.com
-- 😄 Pronouns: Ele/Dele
-<h1>Sobre mim:</h1>
-<h2>
-- Sou um estudante de programação.<br>
-- Estou estudando para ser um desenvolvedor Back end.<br>
-- Tenho facilidade na aprendizagem.<br>
-- Estou focado em melhorar cada vez mais minha logica</h2>
+<h1 align="center">Hi 👋, I'm Alfredo Dheryk do NAscimento Medeiros</h1>
+<h3 align="center">Sou Desenvolvedor Django no Brasil</h3>
 
-<h1>Areas que possuo conhecimento:</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dherykmedeiros&label=Profile%20views&color=0e75b6&style=flat" alt="dherykmedeiros" /> </p>
 
-![pitao](https://github.com/user-attachments/assets/8a3ebefe-4f65-4f8d-82e9-f4c4c1eeff2b)
-![js](https://github.com/user-attachments/assets/2dcd6903-3120-4f66-8149-4c2fea6787f7)
-![html (1)](https://github.com/user-attachments/assets/f25a23fb-2c12-40b3-985e-25dbd296203d)
-![css-3](https://github.com/user-attachments/assets/e6ccab5d-26a8-433f-9d0b-ab661c322d9b)
-![base-de-dados](https://github.com/user-attachments/assets/e11760b5-1cce-4bc0-bc00-cc4b8c773b41)
+- 📫 How to reach me **dheryk@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dheryk-medeiros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dheryk-medeiros" height="30" width="40" /></a>
+<a href="https://instagram.com/dherykmedeiros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dherykmedeiros" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dherykmedeiros&show_icons=true&locale=en&layout=compact" alt="dherykmedeiros" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dherykmedeiros&show_icons=true&locale=en" alt="dherykmedeiros" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dherykmedeiros&" alt="dherykmedeiros" /></p>
