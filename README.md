@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dherykmedeiros&show_icons=true&locale=en" alt="dherykmedeiros" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dherykmedeiros" alt="dherykmedeiros" /></p>
+
